@@ -38,13 +38,13 @@ grafpainel <- ggplot(dadospib) +
     legend.text = element_text(size = 8),   # Aumenta o texto da legenda
     legend.key.size = unit(0.5, "cm")       # Ajusta o tamanho dos quadrados da legenda
   )
-  # Exibir o gráfico
-  print(grafpainel)
+# Exibir o gráfico
+print(grafpainel)
 
-  # Foi feito um gráfico mais moderno, incluindo:
-  
-1) Adicione um título ao gráfico
-2) Renomeie o eixo y como PIB
-3) Renomeie o eixo x como Ano
-4) Utilize cores modernas
-5) Coloque os dados do Brasil em vermelho
+# Foi feito um gráfico mais moderno, incluindo:
+
+# 1) Adicione um título ao gráfico
+# 2) Renomeie o eixo y como PIB
+# 3) Renomeie o eixo x como Ano
+# 4) Utilize cores modernas
+# 5) Coloque os dados do Brasil em vermelho
